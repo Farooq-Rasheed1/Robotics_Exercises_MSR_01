@@ -1,4 +1,4 @@
-This repository contains Jupyter Notebook exercises from a Robotics course, covering topics in localization, mapping, control, and path planning.
+This repository contains Jupyter Notebook exercises from a Robotics course titled as "MSR-01: Sensors and State Estimation", covering topics in localization, mapping, control, and path planning.
 
 Files Overview:
 Bayes_Filter.ipynb – Probabilistic filtering for robot state estimation.
